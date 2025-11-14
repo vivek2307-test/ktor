@@ -26,6 +26,10 @@ repositories {
     mavenCentral()
 }
 
+
+
+
+
 dependencies {
     implementation("io.ktor:ktor-server-netty:$ktor_version")
 }
